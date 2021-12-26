@@ -1,4 +1,15 @@
-### Hi there 👋
+##  Zur Greenberg
+
+I'm Zur from Israel, I recently completed my Full-Stack studies at John Bryce College.
+I enjoy gaining knowledge and creating cool things.  
+
+#### Skills and Experience 
+- React / Angular / Redux
+-  Node.js 
+- Mongoose / MySQL
+- CSS / HTML / Javascript / Typescript / jQuery
+- Material-UI / Bootstrap 
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zurgalos)](https://github.com/zurgalos/github-readme-stats)
 

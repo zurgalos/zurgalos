@@ -2,6 +2,7 @@
 
 I'm Zur from Israel, I recently completed my Full-Stack studies at John Bryce College.
 I enjoy gaining knowledge and creating cool things.  
+- 📫 How to reach me: miniwise@gmail.com 
 
 ## Skills and Experience 
 - React / Angular / Redux

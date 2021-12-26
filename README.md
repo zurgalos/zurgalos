@@ -3,7 +3,7 @@
 I'm Zur from Israel, I recently completed my Full-Stack studies at John Bryce College.
 I enjoy gaining knowledge and creating cool things.  
 
-#### Skills and Experience 
+### Skills and Experience 
 - React / Angular / Redux
 -  Node.js 
 - Mongoose / MySQL

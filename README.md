@@ -1,4 +1,4 @@
-#  Zur Greenberg
+#  Hi there👋, I am Zur
 
 I'm Zur from Israel, I recently completed my Full-Stack studies at John Bryce College.
 I enjoy gaining knowledge and creating cool things.  

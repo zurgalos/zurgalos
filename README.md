@@ -1,6 +1,6 @@
 #  Hi there👋, I am Zur Greenberg
 
-I'm Zur from Israel, I recently completed my Full-Stack development studies at John Bryce College.  
+I'm Zur, I recently completed my Full-Stack development studies at John Bryce College.  
 
 - 📫 How to reach me: miniwisetv@gmail.com 
 
